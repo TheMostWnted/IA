@@ -1,0 +1,17 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXP------------------------------------XXXXXX
+XX--------------------------------------XXXXX
+XX------XXXXXXXXXXXXXXXXXXXXXXX-----------XXX
+X-------XXXXXXXXXXXXXXXXXXXXXX-----------XXXX
+XXX------XXXXXXXX------------------------XXXX
+XXXX------XXXXX-----------------XXXXXXXXXXXXX
+XXXXX------XXXX--------XXXXXXXXXXXXXXXXXXXXXX
+XXXXX-------XXXX--------------XXXXXXXXXXXXXXX
+XXXX-------XXXXXXX-------------------XXXXXXXX
+XXX--------XXXXXXXXXXXX------------------XXXX
+XXXXX-------XXXXXXXXXXXXXXXXXX-------------XX
+XXXXXX-------XXXXXXXXXXXXXXXXXXX------------F
+XXXXXXX--------XXXXXXXXX-----------------XXXX
+XXXXXXXX------------------------------XXXXXXX
+XXXXXXXXXXX--------------------XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
